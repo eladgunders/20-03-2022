@@ -1,0 +1,29 @@
+p{
+    color: aquamarine;
+}
+h1{
+    color:aquamarine;
+    font-style: italic;
+}
+h3{
+    color:rgb(255, 127, 212);
+    font-style: italic;
+}
+.email{
+    background-color: aquamarine;
+    font-style: italic;
+    color:rgb(255, 127, 212);
+}
+.button1 {
+    transition-duration: 0.8s;
+    background-color: white; 
+    color: rgb(255, 127, 212); 
+    border: 2px solid aquamarine;
+    width: 250px;
+}
+  
+.button1:hover {
+    background-color: aquamarine;
+    color: rgb(255, 127, 212);
+}
+
